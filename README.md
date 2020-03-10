@@ -8,4 +8,4 @@ CPool infinadd Epitech Teck1
 
 ### Coverage
 96.7% branches
-99.2 lines
+99.2% lines
