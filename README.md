@@ -7,5 +7,5 @@ CPool infinadd Epitech Teck1
 100% moulinette Epitech
 
 ### Coverage
-96.7% branches
+96.7% branches  
 99.2% lines
